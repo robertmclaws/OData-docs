@@ -77,8 +77,8 @@
     "fileMetadata": {
       "titleSuffix": {
         "/odata/client/**/*.md": "OData Client",
-        "/odata/odatalib/**/*.md": "OData Core library",
-        "/odata/webapi/**/*.md": "OData AspNet WebAPI",
+        "/odata/odatalib/**/*.md": "ODataLib",
+        "/odata/webapi/**/*.md": "ASP.NET WebAPI OData",
         "/odata/spatial/**/*.md": "Microsoft Spatial",
         "/odata/concepts/**/*.md": "OData .NET"
       }
